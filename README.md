@@ -31,7 +31,7 @@
     Back-end systems handle the day-to-day operations of a business, such as
     ordering, shipping, and accounting. Front-end systems are responsible for
     interfacing with customers and handling customer transactions. There are
-    many features that make retail ERP software stand out from the competition.
+    many features that make<p><a href="https://www.msnnews.co/hybrid-erp-system/"> retail ERP software</a></p> stand out from the competition.
     Some of the most important features include:
 </p>
 <p dir="ltr">
